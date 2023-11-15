@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/plugins/ch_siac" >
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/plugins/ch_siac/assets" >
+        <file>cleaning.png</file>
+    </qresource>
+    <qresource prefix="/plugins/ch_siac/assets" >
+        <file>layers.png</file>
+    </qresource>
+    <qresource prefix="/plugins/ch_siac/assets" >
+        <file>trash.png</file>
+    </qresource>	
+    <qresource prefix="/plugins/ch_siac/assets" >
+        <file>editlayers.png</file>
+    </qresource>	
+    <qresource prefix="/plugins/ch_siac/assets" >
+        <file>font_increase.png</file>
+    </qresource>	
+    <qresource prefix="/plugins/ch_siac/assets" >
+        <file>font_decrease.png</file>
+    </qresource>	
+</RCC>

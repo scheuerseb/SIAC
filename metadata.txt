@@ -1,0 +1,46 @@
+# Mandatory items:
+
+[general]
+name=CLEARING HOUSE SIAC
+qgisMinimumVersion=3.28
+description=Spatial Impact Assessment and Classification
+version=0.4
+author=CLEARING HOUSE Project
+email=hello@clearinghouseproject.eu
+
+about=The CLEARING HOUSE Spatial Impact Assessment and Classification (SIAC) tool seeks to facilitate a rapid, indicator- and trait-based assessment and classification of urban forests as nature-based solutions (UF-NBS) entities. The SIAC tool is a prototypical implementation of the UF-NBS typology developed in CLEARING HOUSE. The main outputs of the SIAC tool will be a comparable assessment of UF-NBS traits including spatial configuration of tree-based entities such as (tiny) forests, park tree stands, tree alleys or single trees, a consistent classification of UF-NBS with consideration of their composition and spatial-topological relationships, a derivation of indicators, and an estimation of likely benefits of the UF-NBS under scrutiny. SIAC requires the followi9ng dependencies to be installed: geopandas (>=0.13.0), matplotlib (>=3.5.1), momepy (>=0.6.0), networkx (>=3.1), pandas (>=1.1.3), scikit-learn (>=1.3.0), seaborn (>=0.12.2), shapely (>=2.0.1), statsmodels (>=0.14.0), xlsxwriter (>=3.1.2). Please refer to the documentation on how to install these external dependencies.
+
+tracker=http://bugs
+repository=http://repo
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python, urban forest, CLEARING HOUSE
+
+homepage=https://clearinghouseproject.eu/
+category=Plugins
+icon=icon.png
+
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+#plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+#category=Vector
+
+# If the plugin can run on QGIS Server.
+server=False
+
