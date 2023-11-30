@@ -734,7 +734,7 @@ the tree cover layer are determined based on modelled tree crown
 features, with overlapping tree crowns being considered part of a given
 tree canopy. The respective oriented minimum bounding rectangles, that,
 e.g., support the assessment of linearity of tree plantings, are shown
-as red rectangles.
+as red rectangles (Photo credits: Gokhun Guneyhan, Unsplash License).
 
 **Limitations**
 
